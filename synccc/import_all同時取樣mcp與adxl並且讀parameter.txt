@@ -1,0 +1,7 @@
+NEW BCM 
+	設定SPI
+	做出COMMAND 
+
+
+''' 
+可以選擇CHANNAL??
